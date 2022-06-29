@@ -1,0 +1,5 @@
+Dictionary1 = {'A': 'rajesh', 'B': 'fail', 'C': 'exam'}
+print(Dictionary1.keys())
+empty_Dict1 = {}
+print(empty_Dict1.keys())
+
